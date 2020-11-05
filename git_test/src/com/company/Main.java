@@ -8,6 +8,8 @@ public class Main {
         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaa");
         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaa");
 
+        System.out.println("bbbbbbbbbbbbbbbbbbbaaa");
+
     }
     public void show(){
 
